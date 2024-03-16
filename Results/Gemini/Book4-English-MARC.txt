@@ -1,0 +1,22 @@
+Leader: 01944nam a2200375 a 4500
+001 20230308143434.0
+003 STEPHEN F. AUSTIN STATE UNIV PRESS
+005 20230308143434.0
+008 230307s2023 nyu 000 0 eng d
+020 9781622984957 (pbk. : alk. paper)
+035 03/08/2023:cip
+040 DLC
+050 00 PS648.S68 H37 2023
+082 0 PS374.S6 H37 2023
+100 1 Jannings, Meredith,, editor.
+245 10 Hard to find : an anthology of new Southern Gothic / edited by Meredith Jannings ; with a foreword by Joe R. Lansdale.
+260 1 Nacogdoches, Texas : Stephen F. Austin State University Press, 2023.
+300 1 xvi, 136 pages ; 23 cm
+504 1 Short stories.
+504 2 Southern fiction.
+520 1 "A rich and varied collection of stories that explore the dark side of the American South. From haunted houses to small-town secrets, these tales will keep you on the edge of your seat."--Provided by publisher.
+650 0 Southern States -- Fiction.
+650 0 Gothic fiction, American.
+700 1 Lansdale, Joe R., writer of foreword.
+907 1 Jannings, Meredith
+912 1 Stephen F. Austin State University Press

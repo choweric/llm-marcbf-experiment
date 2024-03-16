@@ -1,0 +1,30 @@
+Leader: 01944nam a2200000 a 4500
+
+001 1900001 a 9917881654846
+003 1900001 a I9990000000001
+005 20190625145654.0
+008 990624s1999 iaun dcu 000 0 eng d
+010 0 $a 1858164072
+020 0 $a 1858164072
+035 0 $a (OCoLC)ocm1858164072
+040 0 $a DNLM
+041 0 $a eng
+043 0 $a NLM
+050 0 $a R735
+082 0 $a 616.861
+100 1 $a Macdonald, Ian,
+100 1 $e editor.
+245 10 $a Health issues related to alcohol consumption /
+245 10 $b edited by Ian Macdonald.
+260 0 $a Oxford ; Malden, MA :
+260 0 $b Blackwell Science,
+260 0 $c 1999.
+300 0 $a 2nd ed.
+505 0 $a Includes bibliographical references and index.
+520 0 $a This book provides a comprehensive review of the health issues related to alcohol consumption. It is intended for a wide range of health professionals, including physicians, nurses, social workers, and health educators.
+650 0 $a Alcohol-related disorders.
+650 0 $a Alcoholism.
+650 0 $a Drinking of alcoholic beverages.
+650 0 $a Health.
+700 1 $a International Life Sciences Institute.
+700 1 $a ILSI Europe.
